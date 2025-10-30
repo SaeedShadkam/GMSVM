@@ -31,4 +31,4 @@ GMSVM's performance is shown to be comparable or superior to four other standard
 ![GMSVM vs Benchmarks](Figs/GMSVM_vs_Benchmarks.jpg)
 
 
-
+If you require full access to the submitted paper, please contact me directly.
