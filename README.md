@@ -13,7 +13,7 @@ The GMSVM model is a combination of the Gaussian Mixture Model (GMM) and the Sup
 
 This method is an extension of the standard SMOTE approach, which we call GM-SMOTE:
 
-![SMOTE vs GM-SMOTE](Figs/SMOTE vs GM-SMOTE.jpg)
+![SMOTE vs GM-SMOTE](Figs/SMOTE_vs_GM-SMOTE.jpg)
 
 
 **2-Classification:** A linear SVM is constructed within each resulting training subset and serves as a base classifier.
@@ -25,5 +25,10 @@ The GMSVM approach demonstrates improved classification performance compared to 
 
 The model's accuracy is specifically investigated and proven effective on real-world imbalanced datasets.
 
-GMSVM's performance is shown to be comparable or superior to four other standard credit scoring models.
+GMSVM's performance is shown to be comparable or superior to four other standard credit scoring models:
+
+
+![GMSVM vs Benchmarks](Figs/GMSVM_vs_Benchmarks.jpg)
+
+
 
