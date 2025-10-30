@@ -13,6 +13,7 @@ The GMSVM model is a combination of the Gaussian Mixture Model (GMM) and the Sup
 
 This method is an extension of the standard SMOTE approach, which we call GM-SMOTE:
 
+![SMOTE vs GM-SMOTE](Figs/SMOTE vs GM-SMOTE.jpg)
 
 
 **2-Classification:** A linear SVM is constructed within each resulting training subset and serves as a base classifier.
